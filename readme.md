@@ -11,3 +11,16 @@
 *   Add any instructions or documentation that you want to share with others.
 * Use markdown to format headings,lists links etc...
 * When done commit the changes and push then to remote repo.
+
+## Technologies used
+- HTML
+- CSS 
+- JS 
+
+### Contact information
+ * Email- kdianarose903@gmail.com
+ * Mobile - 0786223270
+ * Instagram- huncho_finest
+ * Linked in - Rose kilonzo
+
+ 
