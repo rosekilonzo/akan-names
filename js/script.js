@@ -11,5 +11,6 @@ function naming (){
 if (CC.value==''||YY.value==''MM.value==''||DD.value==''){
     alert('No blank values allowed');
 }
-
+ var gender=document.querySelector('input[name='gender']:checked').value;
+ var dayOfTheWeek=parseInt(((CC/4)-2*CC-1)+((5*YY/4))+((26*(MM+1)/10))+DD)%7
 }
