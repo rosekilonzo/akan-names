@@ -3,11 +3,13 @@ html
 {
   height:100%;  
 }
+h1 {color: b5179e;}
 body{    
   background:url('images/jurassic-coast-1406284_1920.jpg') no-repeat;
   background-size: cover;
   height:100%;
   width:100%;
+  
 
 }
 
