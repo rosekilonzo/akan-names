@@ -1,0 +1,35 @@
+
+html
+{
+  height:100%;  
+}
+
+body{    
+  background:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHs74YA0VKQSYELYEBoYodWE3WcKpNM6bIA&usqp=CAU') no-repeat;
+  background-size: cover;
+  height: 100%;
+  width:100%;
+  
+  
+
+}
+
+h1 {color: darkmagenta;}
+.form-top{
+	margin-top: 30px;
+}
+.panel{
+	box-shadow: 0 1px 6px 0 rgba(0,0,0,.12), 0 1px 6px 0 rgba(0,0,0,.12);
+	border-radius: 10px;
+    border: 0;
+}
+@-moz-document url-prefix() {
+    .form-control{
+    	height: auto;
+    }
+
+    container 
+    {background-color: dimgrey;}
+}
+
+
